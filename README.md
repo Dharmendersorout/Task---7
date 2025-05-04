@@ -1,5 +1,5 @@
-Sales Data Summary and Visualization
-Overview
+## Sales Data Summary and Visualization
+## Overview
 This project demonstrates how to create, populate, and analyze a simple sales database using SQLite and Python. It includes a script that:
 
 Creates a SQLite database (sales_data.db) with a sales table.
